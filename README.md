@@ -36,3 +36,5 @@ Need Help?  [Join our Slack team][slack].
 [slack]: https://join.atomist.com/
 
 Deep at the center of my being is an infinite well of love.
+
+It’s only a thought, and a thought can be changed.
